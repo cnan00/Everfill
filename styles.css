@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    font-family: Arial, sans-serif;
+    color: #000000;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 3em;
+    margin-bottom: 0.5em;
+}
+
+p {
+    font-size: 1.2em;
+    max-width: 600px;
+    line-height: 1.6;
+    margin: 0 auto 1.5em;
+}
+
+footer {
+    font-size: 0.9em;
+    color: rgba(0, 0, 0, 0.7);
+    padding-bottom: 20px;
+}
