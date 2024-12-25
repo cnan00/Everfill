@@ -1,292 +1,292 @@
 {
-    "cip2": {
+    "CIP2": {
         "name": "Creeping Inch Plant",
         "item_number": "2",
         "price": 6.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "mtcl1": {
+    "MTCL1": {
         "name": "Monstera Thai Con (Large)",
         "item_number": "1",
         "price": 55.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "mtcl2": {
+    "MTCL2": {
         "name": "Monstera Thai Con (Large)",
         "item_number": "2",
         "price": 55.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "mtcs1": {
+    "MTCS1": {
         "name": "Monstera Thai Con (Small)",
         "item_number": "1",
         "price": 15.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "mtcs2": {
+    "MTCS2": {
         "name": "Monstera Thai Con (Small)",
         "item_number": "2",
         "price": 15.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "mtcs3": {
+    "MTCS3": {
         "name": "Monstera Thai Con (Small)",
         "item_number": "3",
         "price": 15.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "mtcs4": {
+    "MTCS4": {
         "name": "Monstera Thai Con (Small)",
         "item_number": "4",
         "price": 15.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "mtcs5": {
+    "MTCS5": {
         "name": "Monstera Thai Con (Small)",
         "item_number": "5",
         "price": 15.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "mtcn1": {
+    "MTCN1": {
         "name": "Monstera Thai Con Node",
         "item_number": "1",
         "price": 12.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "mtcn2": {
+    "MTCN2": {
         "name": "Monstera Thai Con Node",
         "item_number": "2",
         "price": 12.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "mtcn3": {
+    "MTCN3": {
         "name": "Monstera Thai Con Node",
         "item_number": "3",
         "price": 12.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "mtcn4": {
+    "MTCN4": {
         "name": "Monstera Thai Con Node",
         "item_number": "4",
         "price": 12.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "mtcn5": {
+    "MTCN5": {
         "name": "Monstera Thai Con Node",
         "item_number": "5",
         "price": 12.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "pm1": {
+    "PM1": {
         "name": "Philodendron Micans",
         "item_number": "1",
         "price": 4.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "pm2": {
+    "PM2": {
         "name": "Philodendron Micans",
         "item_number": "2",
         "price": 4.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "pm3": {
+    "PM3": {
         "name": "Philodendron Micans",
         "item_number": "3",
         "price": 4.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "pm4": {
+    "PM4": {
         "name": "Philodendron Micans",
         "item_number": "4",
         "price": 4.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "pwp1": {
+    "PWP1": {
         "name": "Philodendron White Princess",
         "item_number": "1",
         "price": 7.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "pwp2": {
+    "PWP2": {
         "name": "Philodendron White Princess",
         "item_number": "2",
         "price": 7.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "pwp3": {
+    "PWP3": {
         "name": "Philodendron White Princess",
         "item_number": "3",
         "price": 7.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "pwp4": {
+    "PWP4": {
         "name": "Philodendron White Princess",
         "item_number": "4",
         "price": 7.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "sb1": {
+    "SB1": {
         "name": "Succulent Bundle",
         "item_number": "1",
         "price": 4.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "sb2": {
+    "SB2": {
         "name": "Succulent Bundle",
         "item_number": "2",
         "price": 4.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "sb3": {
+    "SB3": {
         "name": "Succulent Bundle",
         "item_number": "3",
         "price": 4.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "sb4": {
+    "SB4": {
         "name": "Succulent Bundle",
         "item_number": "4",
         "price": 4.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "ma1": {
+    "MA1": {
         "name": "Monstera Albo",
         "item_number": "1",
         "price": 75.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "man1": {
+    "MAN1": {
         "name": "Monstera Albo Node",
         "item_number": "1",
         "price": 60.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "pww1": {
+    "PWW1": {
         "name": "Philodendron White Wizard",
         "item_number": "1",
         "price": 5.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "pww2": {
+    "PWW2": {
         "name": "Philodendron White Wizard",
         "item_number": "2",
         "price": 5.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "sop1": {
+    "SOP1": {
         "name": "String of Pearls",
         "item_number": "1",
         "price": 6.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "sop2": {
+    "SOP2": {
         "name": "String of Pearls",
         "item_number": "2",
         "price": 6.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "sop3": {
+    "SOP3": {
         "name": "String of Pearls",
         "item_number": "3",
         "price": 6.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "sop4": {
+    "SOP4": {
         "name": "String of Pearls",
         "item_number": "4",
         "price": 6.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "sob1": {
+    "SOB1": {
         "name": "String of Bananas",
         "item_number": "1",
         "price": 5.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "sob2": {
+    "SOB2": {
         "name": "String of Bananas",
         "item_number": "2",
         "price": 5.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "sob3": {
+    "SOB3": {
         "name": "String of Bananas",
         "item_number": "3",
         "price": 5.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "sob4": {
+    "SOB4": {
         "name": "String of Bananas",
         "item_number": "4",
         "price": 5.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "app1": {
+    "APP1": {
         "name": "Aglaonema Pink Panama",
         "item_number": "1",
         "price": 35.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "btm1": {
+    "BTM1": {
         "name": "Burrows Tail Mini",
         "item_number": "1",
         "price": 4.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "tn1": {
+    "TN1": {
         "name": "Tradescantia Nanouk",
         "item_number": "1",
         "price": 5.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "sp1": {
+    "SP1": {
         "name": "Spider Plant",
         "item_number": "1",
         "price": 5.0,
         "sold": "No",
         "notes": "Add your notes here"
     },
-    "mbmf1": {
+    "MBMF1": {
         "name": "Monstera Burle Marx Flame",
         "item_number": "1",
         "price": 85.0,
