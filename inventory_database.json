@@ -1,338 +1,296 @@
-[
-    {
-        "SKU":"CIP2",
-        "Name":"Creeping Inch Plant",
-        "Item Number":"2",
-        "Price":6.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+{
+    "cip2": {
+        "name": "Creeping Inch Plant",
+        "item_number": "2",
+        "price": 6.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"MTCL1",
-        "Name":"Monstera Thai Con (Large)",
-        "Item Number":"1",
-        "Price":55.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "mtcl1": {
+        "name": "Monstera Thai Con (Large)",
+        "item_number": "1",
+        "price": 55.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"MTCL2",
-        "Name":"Monstera Thai Con (Large)",
-        "Item Number":"2",
-        "Price":55.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "mtcl2": {
+        "name": "Monstera Thai Con (Large)",
+        "item_number": "2",
+        "price": 55.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"MTCS1",
-        "Name":"Monstera Thai Con (Small)",
-        "Item Number":"1",
-        "Price":15.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "mtcs1": {
+        "name": "Monstera Thai Con (Small)",
+        "item_number": "1",
+        "price": 15.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"MTCS2",
-        "Name":"Monstera Thai Con (Small)",
-        "Item Number":"2",
-        "Price":15.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "mtcs2": {
+        "name": "Monstera Thai Con (Small)",
+        "item_number": "2",
+        "price": 15.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"MTCS3",
-        "Name":"Monstera Thai Con (Small)",
-        "Item Number":"3",
-        "Price":15.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "mtcs3": {
+        "name": "Monstera Thai Con (Small)",
+        "item_number": "3",
+        "price": 15.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"MTCS4",
-        "Name":"Monstera Thai Con (Small)",
-        "Item Number":"4",
-        "Price":15.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "mtcs4": {
+        "name": "Monstera Thai Con (Small)",
+        "item_number": "4",
+        "price": 15.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"MTCS5",
-        "Name":"Monstera Thai Con (Small)",
-        "Item Number":"5",
-        "Price":15.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "mtcs5": {
+        "name": "Monstera Thai Con (Small)",
+        "item_number": "5",
+        "price": 15.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"MTCN1",
-        "Name":"Monstera Thai Con Node",
-        "Item Number":"1",
-        "Price":12.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "mtcn1": {
+        "name": "Monstera Thai Con Node",
+        "item_number": "1",
+        "price": 12.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"MTCN2",
-        "Name":"Monstera Thai Con Node",
-        "Item Number":"2",
-        "Price":12.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "mtcn2": {
+        "name": "Monstera Thai Con Node",
+        "item_number": "2",
+        "price": 12.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"MTCN3",
-        "Name":"Monstera Thai Con Node",
-        "Item Number":"3",
-        "Price":12.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "mtcn3": {
+        "name": "Monstera Thai Con Node",
+        "item_number": "3",
+        "price": 12.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"MTCN4",
-        "Name":"Monstera Thai Con Node",
-        "Item Number":"4",
-        "Price":12.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "mtcn4": {
+        "name": "Monstera Thai Con Node",
+        "item_number": "4",
+        "price": 12.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"MTCN5",
-        "Name":"Monstera Thai Con Node",
-        "Item Number":"5",
-        "Price":12.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "mtcn5": {
+        "name": "Monstera Thai Con Node",
+        "item_number": "5",
+        "price": 12.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"PM1",
-        "Name":"Philodendron Micans",
-        "Item Number":"1",
-        "Price":4.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "pm1": {
+        "name": "Philodendron Micans",
+        "item_number": "1",
+        "price": 4.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"PM2",
-        "Name":"Philodendron Micans",
-        "Item Number":"2",
-        "Price":4.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "pm2": {
+        "name": "Philodendron Micans",
+        "item_number": "2",
+        "price": 4.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"PM3",
-        "Name":"Philodendron Micans",
-        "Item Number":"3",
-        "Price":4.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "pm3": {
+        "name": "Philodendron Micans",
+        "item_number": "3",
+        "price": 4.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"PM4",
-        "Name":"Philodendron Micans",
-        "Item Number":"4",
-        "Price":4.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "pm4": {
+        "name": "Philodendron Micans",
+        "item_number": "4",
+        "price": 4.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"PWP1",
-        "Name":"Philodendron White Princess",
-        "Item Number":"1",
-        "Price":7.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "pwp1": {
+        "name": "Philodendron White Princess",
+        "item_number": "1",
+        "price": 7.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"PWP2",
-        "Name":"Philodendron White Princess",
-        "Item Number":"2",
-        "Price":7.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "pwp2": {
+        "name": "Philodendron White Princess",
+        "item_number": "2",
+        "price": 7.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"PWP3",
-        "Name":"Philodendron White Princess",
-        "Item Number":"3",
-        "Price":7.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "pwp3": {
+        "name": "Philodendron White Princess",
+        "item_number": "3",
+        "price": 7.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"PWP4",
-        "Name":"Philodendron White Princess",
-        "Item Number":"4",
-        "Price":7.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "pwp4": {
+        "name": "Philodendron White Princess",
+        "item_number": "4",
+        "price": 7.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"SB1",
-        "Name":"Succulent Bundle",
-        "Item Number":"1",
-        "Price":4.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "sb1": {
+        "name": "Succulent Bundle",
+        "item_number": "1",
+        "price": 4.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"SB2",
-        "Name":"Succulent Bundle",
-        "Item Number":"2",
-        "Price":4.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "sb2": {
+        "name": "Succulent Bundle",
+        "item_number": "2",
+        "price": 4.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"SB3",
-        "Name":"Succulent Bundle",
-        "Item Number":"3",
-        "Price":4.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "sb3": {
+        "name": "Succulent Bundle",
+        "item_number": "3",
+        "price": 4.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"SB4",
-        "Name":"Succulent Bundle",
-        "Item Number":"4",
-        "Price":4.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "sb4": {
+        "name": "Succulent Bundle",
+        "item_number": "4",
+        "price": 4.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"MA1",
-        "Name":"Monstera Albo",
-        "Item Number":"1",
-        "Price":75.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "ma1": {
+        "name": "Monstera Albo",
+        "item_number": "1",
+        "price": 75.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"MAN1",
-        "Name":"Monstera Albo Node",
-        "Item Number":"1",
-        "Price":60.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "man1": {
+        "name": "Monstera Albo Node",
+        "item_number": "1",
+        "price": 60.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"PWW1",
-        "Name":"Philodendron White Wizard",
-        "Item Number":"1",
-        "Price":5.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "pww1": {
+        "name": "Philodendron White Wizard",
+        "item_number": "1",
+        "price": 5.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"PWW2",
-        "Name":"Philodendron White Wizard",
-        "Item Number":"2",
-        "Price":5.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "pww2": {
+        "name": "Philodendron White Wizard",
+        "item_number": "2",
+        "price": 5.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"SOP1",
-        "Name":"String of Pearls",
-        "Item Number":"1",
-        "Price":6.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "sop1": {
+        "name": "String of Pearls",
+        "item_number": "1",
+        "price": 6.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"SOP2",
-        "Name":"String of Pearls",
-        "Item Number":"2",
-        "Price":6.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "sop2": {
+        "name": "String of Pearls",
+        "item_number": "2",
+        "price": 6.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"SOP3",
-        "Name":"String of Pearls",
-        "Item Number":"3",
-        "Price":6.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "sop3": {
+        "name": "String of Pearls",
+        "item_number": "3",
+        "price": 6.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"SOP4",
-        "Name":"String of Pearls",
-        "Item Number":"4",
-        "Price":6.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "sop4": {
+        "name": "String of Pearls",
+        "item_number": "4",
+        "price": 6.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"SOB1",
-        "Name":"String of Bananas",
-        "Item Number":"1",
-        "Price":5.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "sob1": {
+        "name": "String of Bananas",
+        "item_number": "1",
+        "price": 5.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"SOB2",
-        "Name":"String of Bananas",
-        "Item Number":"2",
-        "Price":5.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "sob2": {
+        "name": "String of Bananas",
+        "item_number": "2",
+        "price": 5.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"SOB3",
-        "Name":"String of Bananas",
-        "Item Number":"3",
-        "Price":5.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "sob3": {
+        "name": "String of Bananas",
+        "item_number": "3",
+        "price": 5.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"SOB4",
-        "Name":"String of Bananas",
-        "Item Number":"4",
-        "Price":5.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "sob4": {
+        "name": "String of Bananas",
+        "item_number": "4",
+        "price": 5.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"APP1",
-        "Name":"Aglaonema Pink Panama",
-        "Item Number":"1",
-        "Price":35.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "app1": {
+        "name": "Aglaonema Pink Panama",
+        "item_number": "1",
+        "price": 35.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"BTM1",
-        "Name":"Burrows Tail Mini",
-        "Item Number":"1",
-        "Price":4.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "btm1": {
+        "name": "Burrows Tail Mini",
+        "item_number": "1",
+        "price": 4.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"TN1",
-        "Name":"Tradescantia Nanouk",
-        "Item Number":"1",
-        "Price":5.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "tn1": {
+        "name": "Tradescantia Nanouk",
+        "item_number": "1",
+        "price": 5.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"SP1",
-        "Name":"Spider Plant",
-        "Item Number":"1",
-        "Price":5.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "sp1": {
+        "name": "Spider Plant",
+        "item_number": "1",
+        "price": 5.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     },
-    {
-        "SKU":"MBMF1",
-        "Name":"Monstera Burle Marx Flame",
-        "Item Number":"1",
-        "Price":85.0,
-        "Notes":"Add your notes here",
-        "Sold":"No"
+    "mbmf1": {
+        "name": "Monstera Burle Marx Flame",
+        "item_number": "1",
+        "price": 85.0,
+        "sold": "No",
+        "notes": "Add your notes here"
     }
-]
+}
